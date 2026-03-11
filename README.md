@@ -123,14 +123,5 @@ This structure follows a **layered approach**:
 
 ---
 
-## 📌 Learning Goals of This Project
-
-* Practice **real-world OOP architecture** in C++
-* Learn how to structure a **medium-sized console application**
-* Work with **file-based databases**
-* Implement **basic security concepts** (encrypted passwords)
-* Improve **code organization and maintainability**
-
----
 ---
 
