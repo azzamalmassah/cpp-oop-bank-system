@@ -14,40 +14,40 @@ This project focuses on **OOP design, separation of concerns, and maintainable s
 
 *  **User Management**
 
-  * Add, delete, update, find, and list users
-  * Login system with permission control
-  * **Passwords are encrypted before saving to file**
-  * Login logging (date, time, username, and permission level are saved to a log file)
+  *  Add, delete, update, find, and list users
+  *  Login system with permission control
+  *  **Passwords are encrypted before saving to file**
+  *  Login logging (date, time, username, and permission level are saved to a log file)
 
 *  **Client Management**
 
-  * Add, delete, update, find, and list clients
-  * Deposit & withdraw
-  * Show total balances
+  *  Add, delete, update, find, and list clients
+  *  Deposit & withdraw
+  *  Show total balances
 
 *  **Currency Module**
 
-  * List currencies
-  * Find currency
-  * Update currency rate
-  * Currency calculator & exchange screen
+  *  List currencies
+  *  Find currency
+  *  Update currency rate
+  *  Currency calculator & exchange screen
 
 *  **Transactions**
 
-  * Transfer between clients
-  * Transfer logging
+  *  Transfer between clients
+  *  Transfer logging
 
 *  **Utilities / Libraries**
 
-  * Date handling
-  * String utilities
-  * Input validation
-  * General helper functions
+  *  Date handling
+  *  String utilities
+  *  Input validation
+  *  General helper functions
 
 *  **File-Based Persistence**
 
-  * All data is saved and loaded from files
-  * Users, clients, currencies, and logs persist between runs
+  *  All data is saved and loaded from files
+  *  Users, clients, currencies, and logs persist between runs
 
 ---
 
